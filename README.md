@@ -41,13 +41,14 @@ Real-time filtering for enhanced productivity.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-  🧱 Layer	         ⚙ Technology
-  🎨 Frontend         React.js (Vite), Tailwind CSS, Framer Motion, Dnd-kit
-  🖥 Backend	        Node.js, Express.js
-  🗄 Database	        MongoDB
-  🔐 Authentication	  JSON Web Tokens (JWT), Bcrypt.js
+| 🧱 Layer | ⚙ Technology |
+|----------|--------------|
+| 🎨 Frontend | React.js (Vite), Tailwind CSS, Framer Motion, Dnd-kit |
+| 🖥 Backend | Node.js, Express.js |
+| 🗄 Database | MongoDB |
+| 🔐 Authentication | JSON Web Tokens (JWT), Bcrypt.js |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
